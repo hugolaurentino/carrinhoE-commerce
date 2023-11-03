@@ -1,4 +1,3 @@
-Carrinho de um e-commerce
 <h1 align="center">
   <img alt="Logo" title="#Logo" src="./assets/logo-hugo.jpg" />
 </h1>
